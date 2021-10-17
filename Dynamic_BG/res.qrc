@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/menu/add.png</file>
+        <file>res/menu/BG.png</file>
+        <file>res/menu/capture_active_checked.png</file>
+        <file>res/menu/capture_active_normal.png</file>
+        <file>res/menu/check_box_checked.png</file>
+        <file>res/menu/check_box_normal.png</file>
+        <file>res/menu/music_player.png</file>
+        <file>res/menu/quit.png</file>
+        <file>res/menu/radio_btn_checked.png</file>
+        <file>res/menu/radio_btn_normal.png</file>
+        <file>res/menu/setting.png</file>
+        <file>res/menu/shut.png</file>
+        <file>res/menu/Snipaste.png</file>
+        <file>res/menu/sub.png</file>
+        <file>res/menu/zxh.png</file>
+        <file>res/Role/Role1.png</file>
+        <file>res/Role/Role2.png</file>
+        <file>res/Role/Role3.png</file>
+        <file>res/Role/Role4.png</file>
+        <file>DyBg.ico</file>
+    </qresource>
+</RCC>

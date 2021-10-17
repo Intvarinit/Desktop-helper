@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back/1.jpg</file>
+        <file>back/2.jpg</file>
+        <file>back/3.jpg</file>
+        <file>back/4.jpg</file>
+        <file>back/5.jpg</file>
+        <file>back/6.jpg</file>
+        <file>back/7.jpg</file>
+        <file>back/8.jpg</file>
+        <file>back/back2.jpg</file>
+        <file>back/play.gif</file>
+        <file>girl/1.png</file>
+        <file>girl/2.png</file>
+        <file>girl/3.png</file>
+        <file>girl/4.png</file>
+        <file>girl/5.png</file>
+        <file>girl/6.png</file>
+        <file>menu/add.png</file>
+        <file>menu/capture_active_checked.png</file>
+        <file>menu/capture_active_normal.png</file>
+        <file>menu/check_box_checked.png</file>
+        <file>menu/check_box_normal.png</file>
+        <file>menu/music_player.png</file>
+        <file>menu/quit.png</file>
+        <file>menu/radio_btn_checked.png</file>
+        <file>menu/radio_btn_normal.png</file>
+        <file>menu/setting.png</file>
+        <file>menu/shut.png</file>
+        <file>menu/sub.png</file>
+        <file>menu/zxh.png</file>
+        <file>menu/BG.png</file>
+        <file>menu/Snipaste.png</file>
+    </qresource>
+</RCC>

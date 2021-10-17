@@ -1,0 +1,2 @@
+MyTray可以根据要求去定制，
+需要有一个qrc里面的icon.png
